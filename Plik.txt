@@ -1,1 +1,2 @@
 to jest napisane w Plik.txt
+dobra podsumowanie najwazniejszych rzeczy dla ciebie: git add, git commit -m, git branch, git checkout, git push -u origin main, echo  > lub >>, git merge, git branch -d, yeah
