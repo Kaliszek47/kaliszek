@@ -1,1 +1,2 @@
 ##heeeeej
+dodano cwiczenia
